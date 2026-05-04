@@ -19,7 +19,7 @@
 
 ### Step 1: Copy Project
 
-Place your project folder inside:
+Place the project folder inside:
 
     C:\xampp\htdocs\smart_productivity_planner
 
@@ -222,7 +222,7 @@ Open browser:
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 Authors
+## 👨‍💻 Developed by
 
 -   Rajat Kumar Singh
 -   Sarthak Srivastav
