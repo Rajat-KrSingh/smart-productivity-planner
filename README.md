@@ -33,7 +33,19 @@ Start:
 
 ------------------------------------------------------------------------
 
-### Step 3: Create Tables
+### Step 3: Create Database
+
+1.  Open browser → go to `http://localhost/phpmyadmin`
+2.  Click **New**
+3.  Create database named:
+
+```{=html}
+```
+    todo_project
+
+------------------------------------------------------------------------
+
+### Step 4: Create Tables
 
 Go to `todo_project` → click **SQL** tab → run the following:
 
@@ -65,18 +77,6 @@ INSERT INTO users (username, password) VALUES ('admin', 'password123');
 ```
 
 Click **Go** after running each query.
-
-------------------------------------------------------------------------
-
-### Step 4: Create Database
-
-1.  Open browser → go to `http://localhost/phpmyadmin`
-2.  Click **New**
-3.  Create database named:
-
-```{=html}
-```
-    todo_project
 
 ------------------------------------------------------------------------
 
