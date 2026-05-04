@@ -97,10 +97,10 @@ Open browser:
 
 ## 🗃️ Database Tables
 
-  Table   Purpose
-  ------- --------------------------------------------------------
-  users   Stores admin login credentials
-  tasks   Stores all tasks with date, time, priority, and status
+| Table | Purpose |
+|-------|---------|
+| users | Stores admin login credentials |
+| tasks | Stores all tasks with date, time, priority, and status |
 
 ------------------------------------------------------------------------
 
