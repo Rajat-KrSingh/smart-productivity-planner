@@ -25,15 +25,11 @@ Place your project folder inside:
 
 ------------------------------------------------------------------------
 
-### Step 2: Create Database
+### Step 4: Start XAMPP
 
-1.  Open browser → go to `http://localhost/phpmyadmin`
-2.  Click **New**
-3.  Create database named:
-
-```{=html}
-```
-    todo_project
+Start: 
+- Apache
+- MySQL
 
 ------------------------------------------------------------------------
 
@@ -72,11 +68,15 @@ Click **Go** after running each query.
 
 ------------------------------------------------------------------------
 
-### Step 4: Start XAMPP
+### Step 4: Create Database
 
-Start: 
-- Apache
-- MySQL
+1.  Open browser → go to `http://localhost/phpmyadmin`
+2.  Click **New**
+3.  Create database named:
+
+```{=html}
+```
+    todo_project
 
 ------------------------------------------------------------------------
 
