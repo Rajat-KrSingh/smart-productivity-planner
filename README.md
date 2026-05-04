@@ -108,19 +108,19 @@ Open browser:
 
 ### 1. Admin Login (`index.php`)
 
--   Displays login form\
--   Verifies username & password from database\
--   Creates session on successful login\
--   Redirects to description page\
+-   Displays login form
+-   Verifies username & password from database
+-   Creates session on successful login
+-   Redirects to description page
 -   Shows error on invalid login
 
 ------------------------------------------------------------------------
 
 ### 2. Description Page (`description.php`)
 
--   Displays project overview\
--   Accessible only after login (session protected)\
--   Button to launch main planner\
+-   Displays project overview
+-   Accessible only after login (session protected)
+-   Button to launch main planner
 -   Logout option available
 
 ------------------------------------------------------------------------
@@ -130,19 +130,19 @@ Open browser:
 #### ➤ Add / Update Task
 
 -   User can add task with:
-    -   Title\
-    -   Date\
-    -   Time\
-    -   Priority\
+    -   Title
+    -   Date
+    -   Time
+    -   Priority
 -   Same form is used for editing existing tasks
 
 ------------------------------------------------------------------------
 
 #### ➤ Task Actions
 
--   **Done** → marks task as completed\
--   **Undo** → changes back to pending\
--   **Delete** → removes task permanently\
+-   **Done** → marks task as completed
+-   **Undo** → changes back to pending
+-   **Delete** → removes task permanently
 -   **Edit** → loads task data into form
 
 ------------------------------------------------------------------------
@@ -150,9 +150,9 @@ Open browser:
 #### ➤ Statistics
 
 -   Displays:
-    -   Total Tasks\
-    -   Completed Tasks\
-    -   Pending Tasks\
+    -   Total Tasks
+    -   Completed Tasks
+    -   Pending Tasks
 -   Values update dynamically from database
 
 ------------------------------------------------------------------------
@@ -160,69 +160,69 @@ Open browser:
 #### ➤ Filtering
 
 -   Filter tasks by priority:
-    -   High\
-    -   Medium\
-    -   Low\
+    -   High
+    -   Medium
+    -   Low
 -   Implemented using JavaScript
 
 ------------------------------------------------------------------------
 
 #### ➤ Task Display
 
--   Tasks shown in table format\
+-   Tasks shown in table format
 -   Sorted by:
-    -   Date\
-    -   Time\
+    -   Date
+    -   Time
 -   Priority is color-coded
 
 ------------------------------------------------------------------------
 
 #### ➤ Logout
 
--   Destroys session\
+-   Destroys session
 -   Redirects back to login page
 
 ------------------------------------------------------------------------
 
 ## ✨ Features
 
--   Add, Edit, Delete tasks\
--   Mark tasks as Completed / Pending\
--   Priority-based task management\
--   Deadline tracking (date + time)\
--   Real-time statistics dashboard\
--   Priority filtering\
--   Session-based login system\
+-   Add, Edit, Delete tasks
+-   Mark tasks as Completed / Pending
+-   Priority-based task management
+-   Deadline tracking (date + time)
+-   Real-time statistics dashboard
+-   Priority filtering
+-   Session-based login system
 -   Clean and responsive UI
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
--   **Frontend:** HTML, CSS\
--   **Backend:** PHP\
--   **Database:** MySQL (MySQLi)\
+-   **Frontend:** HTML, CSS
+-   **Backend:** PHP
+-   **Database:** MySQL (MySQLi)
 -   **Server:** XAMPP (Apache + MySQL)
 
 ------------------------------------------------------------------------
 
 ## 💡 Common Issues
 
-**Database not working**\
+**Database not working**
 → Make sure `todo_project` is created correctly
 
-**Tables missing**\
+**Tables missing**
 → Run SQL queries properly
 
-**Project not opening**\
+**Project not opening**
 → Check Apache is running
 
-**Login not working**\
+**Login not working**
 → Verify `users` table contains admin credentials
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Authors
 
--   Rajat Kumar Singh\
+-   Rajat Kumar Singh
 -   Sarthak Srivastav
