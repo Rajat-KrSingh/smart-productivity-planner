@@ -74,7 +74,8 @@ Click **Go** after running each query.
 
 ### Step 4: Start XAMPP
 
-Start: - Apache\
+Start: 
+- Apache\
 - MySQL
 
 ------------------------------------------------------------------------
