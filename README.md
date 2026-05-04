@@ -32,6 +32,7 @@ Place your project folder inside:
 3.  Create database named:
 
 ```{=html}
+```
     todo_project
 
 ------------------------------------------------------------------------
