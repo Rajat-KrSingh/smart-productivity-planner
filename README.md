@@ -25,7 +25,7 @@ Place your project folder inside:
 
 ------------------------------------------------------------------------
 
-### Step 4: Start XAMPP
+### Step 2: Start XAMPP
 
 Start: 
 - Apache
