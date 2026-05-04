@@ -11,7 +11,7 @@
     ├── index.php           ← Admin Login Page
     ├── description.php     ← Project intro / landing page after login
     ├── toodoo.php          ← Main planner (task CRUD + stats + filter)
-    ├── MYREADME.md         ← Project documentation
+    ├── README.md         ← Project documentation
 
 ------------------------------------------------------------------------
 
